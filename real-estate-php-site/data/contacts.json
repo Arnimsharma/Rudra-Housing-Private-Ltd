@@ -1,0 +1,313 @@
+[
+    {
+        "name": "eff",
+        "email": "eff@gmail.com",
+        "phone": "ewf e",
+        "message": "ef",
+        "property_id": "2",
+        "id": 1,
+        "created_at": "2025-08-22T07:44:25+02:00"
+    },
+    {
+        "name": "Arnim",
+        "email": "arnimsharma@gmail.com",
+        "phone": "3333333333333333333333333",
+        "message": "hello testing",
+        "property_id": "1",
+        "id": 2,
+        "created_at": "2025-08-22T08:11:10+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 3,
+        "created_at": "2025-08-22T08:15:18+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 4,
+        "created_at": "2025-08-22T08:15:21+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 5,
+        "created_at": "2025-08-22T08:15:25+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 6,
+        "created_at": "2025-08-22T08:15:28+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 7,
+        "created_at": "2025-08-22T08:15:31+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 8,
+        "created_at": "2025-08-22T08:15:35+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 9,
+        "created_at": "2025-08-22T08:15:38+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 10,
+        "created_at": "2025-08-22T08:15:41+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 11,
+        "created_at": "2025-08-22T08:15:44+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 12,
+        "created_at": "2025-08-22T08:15:48+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 13,
+        "created_at": "2025-08-22T08:15:51+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 14,
+        "created_at": "2025-08-22T08:15:54+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 15,
+        "created_at": "2025-08-22T08:15:58+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 16,
+        "created_at": "2025-08-22T08:16:01+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 17,
+        "created_at": "2025-08-22T08:16:05+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 18,
+        "created_at": "2025-08-22T08:16:08+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 19,
+        "created_at": "2025-08-22T08:16:28+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 20,
+        "created_at": "2025-08-22T08:16:39+02:00"
+    },
+    {
+        "name": "Arnim",
+        "email": "arnimsharma@gmail.com",
+        "phone": "3333333333333333333333333",
+        "message": "hello testing",
+        "property_id": "1",
+        "id": 21,
+        "created_at": "2025-08-22T08:16:50+02:00"
+    },
+    {
+        "name": "Aarti Kumari",
+        "email": "Aartikumari@gmal.com",
+        "phone": "7777777777",
+        "message": "Hello i am aarti",
+        "property_id": "1",
+        "id": 22,
+        "created_at": "2025-08-22T08:16:50+02:00"
+    },
+    {
+        "name": "ADMIN",
+        "email": "rudraahousing4@gmail.com",
+        "phone": "8050807222",
+        "message": "ok",
+        "property_id": "1",
+        "property_title": "Lakeside Apartments",
+        "id": 23,
+        "created_at": "2025-08-22T08:26:06+02:00"
+    },
+    {
+        "name": "Divya",
+        "email": "karan.bhamra0087@gmail.com",
+        "phone": "3333333333333333333333333",
+        "message": "nice",
+        "property_id": "3",
+        "property_title": "City Center Loft",
+        "id": 24,
+        "created_at": "2025-08-22T08:27:06+02:00"
+    },
+    {
+        "name": "Arnim",
+        "email": "jaya.22gemini@gmail.com",
+        "phone": "8050807222",
+        "message": "w2exw",
+        "property_id": "Not specified",
+        "property_title": "Not specified",
+        "id": 25,
+        "created_at": "2025-08-22T08:29:25+02:00"
+    },
+    {
+        "name": "Arnim",
+        "email": "jaya.22gemini@gmail.com",
+        "phone": "8050807222",
+        "message": "w2exw",
+        "property_id": "Not specified",
+        "property_title": "Not specified",
+        "id": 26,
+        "created_at": "2025-08-22T08:29:29+02:00"
+    },
+    {
+        "name": "rudraa",
+        "email": "karan.bhamra0087@gmail.com",
+        "phone": "9599474720",
+        "message": "ogh",
+        "property_id": "5",
+        "property_title": "Rudraa Family Home",
+        "id": 27,
+        "created_at": "2025-08-22T08:37:45+02:00"
+    },
+    {
+        "name": "ADMIN",
+        "email": "AFZALRAZA781@GMAIL.COM",
+        "phone": "3333333333333333333333333",
+        "message": ",\/ .m",
+        "property_id": "1",
+        "property_title": "Lakeside Apartments",
+        "submitted_at": "2025-08-22 10:39:57"
+    },
+    {
+        "name": "ADMIN",
+        "email": "AFZALRAZA781@GMAIL.COM",
+        "phone": "3333333333333333333333333",
+        "message": ",\/ .m",
+        "property_id": "1",
+        "property_title": "Lakeside Apartments",
+        "submitted_at": "2025-08-22 10:49:16"
+    },
+    {
+        "name": "aryan",
+        "email": "kajalsingh42921@gmail.com",
+        "phone": "0",
+        "message": "rg",
+        "property_id": "2",
+        "property_title": "Greenfield Villa",
+        "submitted_at": "2025-08-22 10:58:23"
+    },
+    {
+        "name": "Arnim",
+        "email": "karan.bhamra0087@gmail.com",
+        "phone": "ewf e",
+        "message": "vrfef",
+        "property_id": "2",
+        "property_title": "Greenfield Villa",
+        "submitted_at": "2025-08-22 12:01:00"
+    },
+    {
+        "name": "eff",
+        "email": "AFZALRAZA781@GMAIL.COM",
+        "phone": "3333333333333333333333333",
+        "message": "er",
+        "property_id": "2",
+        "property_title": "Greenfield Villa",
+        "submitted_at": "2025-08-22 12:14:14"
+    },
+    {
+        "name": "ADMIN",
+        "email": "jaya.22gemini@gmail.com",
+        "phone": "0",
+        "message": "J",
+        "property_id": "4",
+        "property_title": "Suburban Family Home",
+        "submitted_at": "2025-08-22 12:20:07"
+    },
+    {
+        "name": "satyam",
+        "email": "satyam@gmail.com",
+        "phone": "56789",
+        "message": "suduydg",
+        "property_id": "4",
+        "property_title": "Suburban Family Home",
+        "submitted_at": "2025-08-22 12:32:52"
+    }
+]

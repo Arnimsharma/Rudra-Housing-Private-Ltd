@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Lakeside Apartments",
+    "price": 85000,
+    "city": "Mathura",
+    "beds": 2,
+    "baths": 2,
+    "area_sqft": 920,
+    "type": "Apartment",
+    "image": "assets/images/apt-lake.svg",
+    "description": "Modern 2BHK apartment with serene lake views, near schools and shopping.",
+    "images": [
+      "assets/images/apt-lake.svg",
+      "assets/images/apt-lake-2.jpg",
+      "assets/images/apt-lake-3.jpg",
+      "assets/images/apt-lake-4.jpg"
+    ],
+    "amenities": [
+      {"name": "Swimming Pool", "logo": "assets/icons/pool.png"},
+      {"name": "24/7 Security", "logo": "assets/icons/security.png"},
+      {"name": "Gymnasium", "logo": "assets/icons/gym.png"},
+      {"name": "Parking", "logo": "assets/icons/parking.png"}
+    ],
+    "location": "Near Yamuna Expressway, Mathura, Uttar Pradesh",
+    "lat": 27.4924,
+    "lon": 77.6737,
+    "payment": {
+      "plan_a": {
+        "area": 920,
+        "total_price": 85000,
+        "booking_price": 8500,
+        "balance_price": 76500,
+        "timeline": "12 months"
+      },
+      "emi_option": {
+        "booking": 8500,
+        "installment_1": 20000,
+        "per_month_emi": 1250
+      }
+    },
+    "location_advantages": [
+      "90 mins from Gurgaon",
+      "Lake view area",
+      "Prime Yamuna Expressway frontage",
+      "Close to schools and malls",
+      "Serene natural surroundings"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Greenfield Villa",
+    "price": 145000,
+    "city": "Vrindavan",
+    "beds": 3,
+    "baths": 3,
+    "area_sqft": 1750,
+    "type": "Villa",
+    "image": "assets/images/villa-green.svg",
+    "description": "Spacious villa with private garden, perfect for families seeking peace.",
+    "images": [
+      "assets/images/villa-green.svg",
+      "assets/images/villa-green-2.jpg",
+      "assets/images/villa-green-3.jpg",
+      "assets/images/villa-green-4.jpg"
+    ],
+    "amenities": [
+      {"name": "Private Garden", "logo": "assets/icons/garden.png"},
+      {"name": "24/7 Security", "logo": "assets/icons/security.png"},
+      {"name": "Clubhouse", "logo": "assets/icons/clubhouse.png"},
+      {"name": "Power Backup", "logo": "assets/icons/power.png"}
+    ],
+    "location": "Chhatikara Road, Vrindavan, Uttar Pradesh",
+    "lat": 27.5650,
+    "lon": 77.6593,
+    "payment": {
+      "plan_a": {
+        "area": 1750,
+        "total_price": 145000,
+        "booking_price": 14500,
+        "balance_price": 130500,
+        "timeline": "18 months"
+      },
+      "emi_option": {
+        "booking": 14500,
+        "installment_1": 35000,
+        "per_month_emi": 2150
+      }
+    },
+    "location_advantages": [
+      "1 hour from Mathura",
+      "Peaceful temple vicinity",
+      "Close to Chhatikara Road",
+      "Lush green surroundings",
+      "Easy access to Vrindavan city"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "City Center Loft",
+    "price": 110000,
+    "city": "Jaipur",
+    "beds": 1,
+    "baths": 1,
+    "area_sqft": 700,
+    "type": "Loft",
+    "image": "assets/images/city-loft.svg",
+    "description": "Stylish loft in the heart of the city with great connectivity.",
+    "images": [
+      "assets/images/city-loft.svg",
+      "assets/images/city-loft-2.jpg",
+      "assets/images/city-loft-3.jpg",
+      "assets/images/city-loft-4.jpg"
+    ],
+    "amenities": [
+      {"name": "High-Speed Wi-Fi", "logo": "assets/icons/wifi.png"},
+      {"name": "24/7 Security", "logo": "assets/icons/security.png"},
+      {"name": "Rooftop Lounge", "logo": "assets/icons/lounge.png"},
+      {"name": "Parking", "logo": "assets/icons/parking.png"}
+    ],
+    "location": "C-Scheme, Jaipur, Rajasthan",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "payment": {
+      "plan_a": {
+        "area": 700,
+        "total_price": 110000,
+        "booking_price": 11000,
+        "balance_price": 99000,
+        "timeline": "10 months"
+      },
+      "emi_option": {
+        "booking": 11000,
+        "installment_1": 25000,
+        "per_month_emi": 1600
+      }
+    },
+    "location_advantages": [
+      "5 mins from Jaipur Railway Station",
+      "Central business district",
+      "Close to malls and restaurants",
+      "Excellent public transport",
+      "Vibrant urban lifestyle"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Suburban Family Home",
+    "price": 125000,
+    "city": "Neemrana",
+    "beds": 4,
+    "baths": 3,
+    "area_sqft": 2100,
+    "type": "House",
+    "image": "assets/images/suburb-house.svg",
+    "description": "Bright 4-bedroom home in a quiet neighborhood close to parks.",
+    "images": [
+      "assets/images/suburb-house.svg",
+      "assets/images/suburb-house-2.jpg",
+      "assets/images/suburb-house-3.jpg",
+      "assets/images/suburb-house-4.jpg"
+    ],
+    "amenities": [
+      {"name": "Spacious Backyard", "logo": "assets/icons/backyard.png"},
+      {"name": "24/7 Security", "logo": "assets/icons/security.png"},
+      {"name": "Community Park", "logo": "assets/icons/park.png"},
+      {"name": "Power Backup", "logo": "assets/icons/power.png"}
+    ],
+    "location": "NH-8, Neemrana, Rajasthan",
+    "lat": 27.9894,
+    "lon": 76.3787,
+    "payment": {
+      "plan_a": {
+        "area": 2100,
+        "total_price": 125000,
+        "booking_price": 12500,
+        "balance_price": 112500,
+        "timeline": "15 months"
+      },
+      "emi_option": {
+        "booking": 12500,
+        "installment_1": 30000,
+        "per_month_emi": 1850
+      }
+    },
+    "location_advantages": [
+      "30 mins from Alwar",
+      "Prime NH-8 frontage",
+      "Near industrial hub",
+      "Quiet suburban setting",
+      "Close to community parks"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Rudraa Family Home",
+    "price": 125000,
+    "city": "Neemrana",
+    "beds": 4,
+    "baths": 3,
+    "area_sqft": 2100,
+    "type": "House",
+    "image": "assets/images/suburb-house.svg",
+    "description": "Bright 4-bedroom home in a quiet neighborhood close to parks.",
+    "images": [
+      "assets/images/suburb-house.svg",
+      "assets/images/suburb-house-2.jpg",
+      "assets/images/suburb-house-3.jpg",
+      "assets/images/suburb-house-4.jpg"
+    ],
+    "amenities": [
+      {"name": "Spacious Backyard", "logo": "assets/icons/backyard.png"},
+      {"name": "24/7 Security", "logo": "assets/icons/security.png"},
+      {"name": "Community Park", "logo": "assets/icons/park.png"},
+      {"name": "Clubhouse", "logo": "assets/icons/clubhouse.png"}
+    ],
+    "location": "NH-8, Neemrana, Rajasthan",
+    "lat": 27.9894,
+    "lon": 76.3787,
+    "payment": {
+      "plan_a": {
+        "area": 2100,
+        "total_price": 125000,
+        "booking_price": 12500,
+        "balance_price": 112500,
+        "timeline": "15 months"
+      },
+      "emi_option": {
+        "booking": 12500,
+        "installment_1": 30000,
+        "per_month_emi": 1850
+      }
+    },
+    "location_advantages": [
+      "30 mins from Alwar",
+      "Prime NH-8 connectivity",
+      "Near industrial and IT hubs",
+      "Family-friendly community",
+      "Access to green parks"
+    ]
+  }
+]
